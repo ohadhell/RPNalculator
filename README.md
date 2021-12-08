@@ -1,4 +1,4 @@
-# RPNalculator
+# RPNcalculator
 calculator for unlimited-precision unsigned integers, Reverse Polish notation, written in assembly
 
 Reverse Polish notation (RPN) is a mathematical notation in which every operator follows all its operands, for example "3 + 4" would be presented as "3 4 +"
